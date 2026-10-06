@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 静态内容路由 sitemap（动态详情 URL 不入 sitemap，由列表页链接被爬虫发现） -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://yongcheng.eu.cc/</loc></url>
+  <url><loc>https://yongcheng.eu.cc/products</loc></url>
+  <url><loc>https://yongcheng.eu.cc/news</loc></url>
+  <url><loc>https://yongcheng.eu.cc/services</loc></url>
+  <url><loc>https://yongcheng.eu.cc/services/advantages</loc></url>
+  <url><loc>https://yongcheng.eu.cc/services/flow</loc></url>
+  <url><loc>https://yongcheng.eu.cc/rd</loc></url>
+  <url><loc>https://yongcheng.eu.cc/about</loc></url>
+  <url><loc>https://yongcheng.eu.cc/cases</loc></url>
+  <url><loc>https://yongcheng.eu.cc/cases/mousse</loc></url>
+  <url><loc>https://yongcheng.eu.cc/contact</loc></url>
+</urlset>
